@@ -1,0 +1,6 @@
+2017-05-28 02:57:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "INVITATION" not found; SQL statement:
+SELECT * FROM `invitation` WHERE `mission_id` = ?  [42102-194]
+2017-05-28 02:57:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "INVITATION" not found; SQL statement:
+SELECT * FROM `invitation` WHERE `mission_id` = ?  [42102-194]
